@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# React Router testing App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a testing ground to play around with React Router for the first time.  This is to better understand how the Browser Router works and work out the trouble shooting for application in future projects. It was accomplished by following the tutorial on reactrouter.com.
+
+Road Map
+Adding additional files and routes
+Apply principals of Single Page Applications to futher understand Router Capabilities.
 
 ## Available Scripts
 
